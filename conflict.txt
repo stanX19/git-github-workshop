@@ -3,6 +3,7 @@ ba
 sas
 das
 d
+<<<<<<< HEAD
 sad
 asas
 da
@@ -18,12 +19,26 @@ dad
 sdsaasdd
 a
 ddasd
+=======
+sada
 as
-das
-dqwdwqas
+da
+dasdas
+asdwrgdtfgdfsas
+d
+asd
+asd
+dsdasdasd
+asd
+asdasdvssdsdvfdcsd
+d
+>>>>>>> origin/tan_shanchien
+as
+dasas
+dqwdwqasfdwfdvscssvccdaszd
 a
 da
-da
+daddsd
 sd
 asd
 as
